@@ -34,9 +34,9 @@ Os exercícios que não pedem para gerar algum código estão em blocos de texto
 
 ```
 /
-├── IA.ipynb              # Notebook principal com todos os exercícios
+├── IA.ipynb               # Notebook principal com todos os exercícios
 ├── README.md              # Este arquivo
-├── orange/                # Arquivos de fluxo do Orange Data Mining
+├── orange/                # Imagem do fluxo do Orange Data Mining
 └── data/                  # Datasets utilizados
 ````
 
